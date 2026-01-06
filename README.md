@@ -31,13 +31,7 @@ RentTrack is a comprehensive Rental Management System designed to streamline the
 
 
 
-## Frontend UI
 
-- **Home Page**  
-  <img src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1723625654/Screenshot_2024-08-14_142246_zef3t0.png" alt="Spring Boot Backend Architecture" width="600"/>
-
-- **Mobile Home Page**  
-  <img src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1723625653/Screenshot_2024-08-14_142346_esxu3o.png" alt="ER Diagram" width="600"/>
 
 
 
