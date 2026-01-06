@@ -24,7 +24,7 @@ RentTrack is a comprehensive Rental Management System designed to streamline the
 |------------------------|-----------------------------------|
 | **Java**               | **TypeScript**                    |
 | **Spring Boot**        | **React.js**                      |
-| **MySQL**         | **JavaScript**                    |
+| **PostgreSQL**         | **JavaScript**                    |
 | **Spring Security**    | **Redux**                         |
 | **JWT**                | **Tailwind CSS**                  |
 | **OOP**                | **React Query**                   |
