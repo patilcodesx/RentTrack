@@ -1,0 +1,31 @@
+# ========================
+# Environment variables
+# ========================
+.env
+
+# ========================
+# Backend (Spring Boot)
+# ========================
+renttrack-backend/target/
+renttrack-backend/.classpath
+renttrack-backend/.project
+renttrack-backend/.settings/
+
+# ========================
+# Frontend (React + Vite)
+# ========================
+renttrack-frontend-suite-main/node_modules/
+renttrack-frontend-suite-main/dist/
+renttrack-frontend-suite-main/.vite/
+
+# ========================
+# IDE files
+# ========================
+.idea/
+.vscode/
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
